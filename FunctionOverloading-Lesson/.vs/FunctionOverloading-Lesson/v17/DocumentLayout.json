@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m7ama\\source\\repos\\FunctionOverloading-Lesson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62C4F42A-F5B2-455E-A72F-409262D0C137}|FunctionOverloading-Lesson\\FunctionOverloading-Lesson.vcxproj|C:\\Users\\m7ama\\source\\repos\\FunctionOverloading-Lesson\\FunctionOverloading-Lesson\\FunctionOverloading-Lesson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62C4F42A-F5B2-455E-A72F-409262D0C137}|FunctionOverloading-Lesson\\FunctionOverloading-Lesson.vcxproj|solutionrelative:FunctionOverloading-Lesson\\FunctionOverloading-Lesson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 417,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FunctionOverloading-Lesson.cpp",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\FunctionOverloading-Lesson\\FunctionOverloading-Lesson\\FunctionOverloading-Lesson.cpp",
+              "RelativeDocumentMoniker": "FunctionOverloading-Lesson\\FunctionOverloading-Lesson.cpp",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\FunctionOverloading-Lesson\\FunctionOverloading-Lesson\\FunctionOverloading-Lesson.cpp",
+              "RelativeToolTip": "FunctionOverloading-Lesson\\FunctionOverloading-Lesson.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T10:07:47.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m7ama\\source\\repos\\Validation-Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7FB028-F436-4569-8D9B-C782BCDA6E2C}|Validation-Number\\Validation-Number.vcxproj|C:\\Users\\m7ama\\source\\repos\\Validation-Number\\Validation-Number\\Validation-Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D7FB028-F436-4569-8D9B-C782BCDA6E2C}|Validation-Number\\Validation-Number.vcxproj|solutionrelative:Validation-Number\\Validation-Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 290,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validation-Number.cpp",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Validation-Number\\Validation-Number\\Validation-Number.cpp",
+              "RelativeDocumentMoniker": "Validation-Number\\Validation-Number.cpp",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Validation-Number\\Validation-Number\\Validation-Number.cpp",
+              "RelativeToolTip": "Validation-Number\\Validation-Number.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T10:11:56.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

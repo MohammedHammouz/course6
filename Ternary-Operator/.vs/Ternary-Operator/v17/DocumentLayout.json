@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m7ama\\source\\repos\\Ternary-Operator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7BDD4C-35ED-4E08-9DB1-B331293996AF}|Ternary-Operator\\Ternary-Operator.vcxproj|C:\\Users\\m7ama\\source\\repos\\Ternary-Operator\\Ternary-Operator\\Ternary-Operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B7BDD4C-35ED-4E08-9DB1-B331293996AF}|Ternary-Operator\\Ternary-Operator.vcxproj|solutionrelative:Ternary-Operator\\Ternary-Operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ternary-Operator.cpp",
+              "DocumentMoniker": "C:\\Users\\m7ama\\source\\repos\\Ternary-Operator\\Ternary-Operator\\Ternary-Operator.cpp",
+              "RelativeDocumentMoniker": "Ternary-Operator\\Ternary-Operator.cpp",
+              "ToolTip": "C:\\Users\\m7ama\\source\\repos\\Ternary-Operator\\Ternary-Operator\\Ternary-Operator.cpp",
+              "RelativeToolTip": "Ternary-Operator\\Ternary-Operator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-02T16:45:34.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
